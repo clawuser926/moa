@@ -1,0 +1,21 @@
+{
+  "nickname": "AI工具控",
+  "avatar": "",
+  "platforms": [
+    "xiaohongshu",
+    "zhihu",
+    "wechat_oa",
+    "douyin",
+    "bilibili"
+  ],
+  "active_niches": [
+    "Mac效率工具",
+    "本地AI部署",
+    "Python自动化",
+    "程序员效率"
+  ],
+  "post_frequency": "daily",
+  "auto_publish": false,
+  "watermark": true,
+  "watermark_text": "MoA AI"
+}
